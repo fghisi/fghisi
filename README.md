@@ -1,4 +1,4 @@
-# Olá, eu sou o Fernando! :wave:
+# Olá! :wave:
 
 Atualmente faço parte de uma startup [era6](https://www.linkedin.com/company/era6), na parte de desenvolvimento do backend da solução, e acabo também fazendo a prototipação das interfaces em mobile e web, utilizando figma e whimsical. No desenvolvimento do backend utilizo Python, Flask, PostgreSQL, AWS, microsserviços, mensageria.
 
