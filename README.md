@@ -1,6 +1,6 @@
 # Olá! :wave:
 
-Atualmente faço parte de uma startup [era6](https://www.linkedin.com/company/era6), na parte de desenvolvimento do backend da solução, e acabo também fazendo a prototipação das interfaces em mobile e web, utilizando figma e whimsical. No desenvolvimento do backend utilizo Python, Flask, PostgreSQL, AWS, microsserviços, mensageria.
+Atualmente faço parte da startup [era6](https://www.linkedin.com/company/era6), na parte de desenvolvimento do backend da solução, e acabo também fazendo a prototipação das interfaces em mobile e web, utilizando figma e whimsical. No desenvolvimento do backend utilizo Python, Flask, PostgreSQL, AWS, microsserviços, mensageria.
 
 Passei boa parte da minha carreira, atuando em soluções on-primeses utilizando Python no desenvolvimento, a uns 3 anos direcionei meus estudos e trabalhos na criação de soluções SaaS.
 
