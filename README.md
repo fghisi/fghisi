@@ -6,7 +6,7 @@ Acredito em software feito com cuidado: **XP, pair programming, test-first** e c
  
 #### No que estou trabalhando
  
-- **Criação de sites:** sites institucionais e landing pages rápidos, bem construídos e mantidos por mim, para pequenos negócios e profissionais.
+- **[Criação de sites](https://fghisi.com.br/sites):** sites institucionais e landing pages rápidos, bem construídos e mantidos por mim, para pequenos negócios e profissionais.
 - **[amardoar](https://fghisi.com.br/amardoar):** marketplace que conecta doadores a instituições filantrópicas.
 - **[fghisi.com.br](https://fghisi.com.br):** meu canto na internet, onde vou escrever sobre tecnologia, engenharia e o que aprendo pelo caminho.
 #### Com o que trabalho
