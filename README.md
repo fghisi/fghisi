@@ -6,6 +6,7 @@ Acredito em software feito com cuidado: **XP, pair programming, test-first** e c
  
 #### No que estou trabalhando
  
+- **[Faunoteca](https://fghisi.com.br/faunoteca):** enciclopédia da fauna silvestre brasileira, com fichas de espécies para quem quer conhecer (e proteger) os bichos que vivem por aqui. Meu projeto mais novo, nascido da paixão por animais silvestres.
 - **[Criação de sites](https://fghisi.com.br/sites):** sites institucionais e landing pages rápidos, bem construídos e mantidos por mim, para pequenos negócios e profissionais.
 - **[amardoar](https://fghisi.com.br/amardoar):** marketplace que conecta doadores a instituições filantrópicas.
 - **[fghisi.com.br](https://fghisi.com.br):** meu canto na internet, onde vou escrever sobre tecnologia, engenharia e o que aprendo pelo caminho.
@@ -22,6 +23,4 @@ Acredito em software feito com cuidado: **XP, pair programming, test-first** e c
  
 <details>
 <summary>English</summary>
-Software engineer and technology manager in **Payments & Acquiring**. I lead teams building high-volume platforms designed to scale and recover from failure, tying technical decisions to business impact without compromising quality. My focus areas are distributed systems, event-driven architecture, resilience and observability on AWS. I care about XP, pair programming, test-first and code that's easy to change. On the side, I build fast, well-crafted websites for small businesses and write at [fghisi.com.br](https://fghisi.com.br).
- 
-</details>
+Software engineer and technology manager in **Payments & Acquiring**. I lead teams building high-volume platforms designed to scale and recover from failure, tying technical decisions to business impact without compromising quality. My focus areas are distributed systems, event-driven architecture, resilience and observability on AWS. I care about XP, pair programming, test-first and code that's easy to change. My newest side project is **[Faunoteca](https://fghisi.com.br/faunoteca)**, an encyclopedia of Brazilian wildlife. I also build fast, well-crafted websites for small businesses and write at [fghisi.com.br](https://fghisi.com.br).
