@@ -6,10 +6,10 @@ Acredito em software feito com cuidado: **XP, pair programming, test-first** e c
  
 #### No que estou trabalhando
  
-- **[Faunoteca](https://fghisi.com.br/faunoteca):** enciclopédia da fauna silvestre brasileira, com fichas de espécies para quem quer conhecer (e proteger) os bichos que vivem por aqui. Meu projeto mais novo, nascido da paixão por animais silvestres.
-- **[Criação de sites](https://fghisi.com.br/sites):** sites institucionais e landing pages rápidos, bem construídos e mantidos por mim, para pequenos negócios e profissionais.
+- **[faunoteca](https://fghisi.com.br/faunoteca):** enciclopédia da fauna silvestre brasileira, com fichas de espécies para quem quer conhecer (e proteger) os bichos que vivem por aqui. Meu projeto mais novo, nascido da paixão por animais silvestres.
 - **[amardoar](https://fghisi.com.br/amardoar):** marketplace que conecta doadores a instituições filantrópicas.
 - **[fghisi.com.br](https://fghisi.com.br):** meu canto na internet, onde vou escrever sobre tecnologia, engenharia e o que aprendo pelo caminho.
+- **[Criação de sites](https://fghisi.com.br/sites):** sites institucionais e landing pages rápidos, bem construídos e mantidos por mim, para pequenos negócios e profissionais.
 #### Com o que trabalho
  
 - **Arquitetura:** sistemas distribuídos, arquitetura orientada a eventos, microsserviços e mensageria, com foco em escalabilidade, resiliência e observabilidade.
