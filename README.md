@@ -13,7 +13,6 @@ Acredito em software feito com cuidado: **XP, pair programming, test-first** e c
 | **[faunoteca](https://fghisi.com.br/faunoteca/)** | A biblioteca viva da fauna brasileira, começando pelas serpentes: fichas por espécie e família, mapas de ocorrência e guias práticos, com fonte oficial em tudo o que envolve saúde e lei. |
 | **[fghisi podcast](https://fghisi.com.br/podcast/)** | Livros, artigos e aprendizados de tecnologia e liderança, em áudio, gravados com a minha voz clonada. |
 | **[fghisi.com.br](https://fghisi.com.br)** | Blog bilíngue sobre engenharia de software e liderança, que também abriga todos os projetos acima. |
-| **[Criação de sites](https://fghisi.com.br/sites/)** | Sites institucionais, landing pages e catálogos rápidos e bem construídos, para pequenos negócios e profissionais. Veja os [casos](https://fghisi.com.br/sites/amardoar/). |
 
 #### O que escrevi por último
 
